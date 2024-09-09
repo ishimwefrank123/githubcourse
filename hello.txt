@@ -2,3 +2,9 @@ greating: hello friends
  
 name: my name is ISHIMWE Frank
 nickname: Future
+
+name of the family members: 
+1. ABAYO TUYIZERE Brigitte
+2. BENIJAMBO Consiance
+3. AKARABO Lucky Kate
+4. Mother
