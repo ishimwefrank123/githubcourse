@@ -1,1 +1,4 @@
 greating: hello friends
+ 
+name: my name is ISHIMWE Frank
+nickname: Future
