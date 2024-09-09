@@ -1,16 +1,9 @@
-greating: hello friends
- 
-name: my name is ISHIMWE Frank
-nickname: Future
+I want to tell you about my education 
 
-name of the family members: 
-1. ABAYO TUYIZERE Brigitte
-2. BENIJAMBO Consiance
-3. AKARABO Lucky Kate
-4. Mother 
+now i am in university in year3 in computer and software engineering
+at university of Rwanda in cst
 
-the location of my family:
-1. Gakenke district
-2. Mugunga sector
-3. Rutenderi cell
-4. Nyakazenga village
+secondary a'level i studied at Ecole secondary saint joseph karuganda
+          o'level i studied at Minor Seminary Nkumba
+
+Primary  Ecole primary Curugusi
